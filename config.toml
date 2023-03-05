@@ -1,7 +1,5 @@
 baseURL = "https://badalnaik12.github.io/sampleapp2/"
 
-
-
 title = "Gokarna"
 theme = "gokarna"
 languageCode = "en"
